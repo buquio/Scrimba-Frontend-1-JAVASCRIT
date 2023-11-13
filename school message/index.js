@@ -21,3 +21,5 @@ sendText('Anna', 'Seeberg', 89)
 sendText('Robert', 'Anderson', 78)
 sendText('Diane', 'Leming', 42)
 sendText('Mariam', 'Dover', 50)
+
+sendText('Xidonan', 'Lmee', 66)
