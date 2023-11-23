@@ -23,3 +23,6 @@ sendText('Diane', 'Leming', 42)
 sendText('Mariam', 'Dover', 50)
 
 sendText('Xidonan', 'Lmee', 66)
+
+sendText('BOLA', 'HERY', 49)
+sendText('NED', 'LOLODE', 89)
